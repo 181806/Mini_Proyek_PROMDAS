@@ -11,7 +11,7 @@
 - Program Studi: PSTI
 
 ## Permintaan Program
->"Teh Putri ingin dibuatkan program untuk split bil."
+>"Teh Putri ingin dibuatkan sebuah program untuk split bil."
 
 ## Penjelasan Program
 - Bahasa pemrograman yang digunakan: C
@@ -27,6 +27,6 @@
         - Array
         - Fungsi (main)
 
-    ## https://youtu.be/Vg-Pf9sVSQI (Link Video Demo)
+    ## https://youtu.be/m4LpREmDTTk (Link Video Demo)
 
     
